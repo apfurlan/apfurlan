@@ -9,8 +9,8 @@ as well as, computational physics (Monte Carlo and Molecular Dynamics Methods).
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apfurlan&show_icon=true&theme=prussian&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfurlan&layout=compact&langs_count=16&theme=prussian"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=apfurlan&show_icon=true&theme=prussian&include_all_commits=true&count_private=true"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfurlan&layout=compact&langs_count=16&theme=prussian"/> 
 </div>
 
 ## 
