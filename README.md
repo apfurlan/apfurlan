@@ -1,6 +1,6 @@
 ## Hi there !!!👋
 
-I'm Alexandre Furlan and this is my Github page. Here you will find some projetcs developed to learn/study data science (Data Engineer,ML,DL) 
+I'm Alexandre Furlan and this is my Github page. Here you will find some projects developed to learn/study data science (Data Engineer,ML,DL) 
 as well as, computational physics (Monte Carlo and Molecular Dynamics Methods). 
   
 -  🖥 Data Engineer, former Data Analyst 
