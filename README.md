@@ -1,10 +1,11 @@
-## Hi there !!!👋
+## Hi there !!! 👋
 
 I'm Alexandre Furlan and this is my Github page. Here you will find some projects developed to learn/study data science and some computational physics projects (Monte Carlo and Molecular Dynamics codes). 
   
+-  🧔🏻 PHD Statistical and Computational Physics
 -  🖥 Data Engineer, former Data Analyst 
 -  🏢 Currently working on [A3Data](https://github.com/orgs/A3Data/teams)  
--  🧑🏽‍🎓 Currently studing for certifications (AWS Practitioner,GCP Foundational) 
+-  🧑🏽‍🎓 Currently studing Cloud computing (AWS,GCP) 
 
 
 <div>
@@ -13,6 +14,8 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 </div>
 
 ## 
+
+&nbsp;
 
 <div style="display: inline_block">
   <img align="center" alt="Fortran" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">
