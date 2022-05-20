@@ -37,7 +37,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 ## Projects
 ### Data Engineering
 - [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer) - <img align="center" alt="C" height="30" width="30" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> <img align="center" alt="C" height="30" width="30" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- [Deploing a Kubernetes cluster (EKS) with Terraform and using it for ETL](https://github.com/apfurlan/terraform_AWS_k8s_airflow_supserset) - <img align="center" alt="C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> <img align="center" alt="C" height="30" width="30" src="https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png">
+- [Deploing a Kubernetes cluster (EKS) with Terraform and using it for ETL](https://github.com/apfurlan/terraform_AWS_k8s_airflow_supserset) - <img align="center" alt="C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> <img align="center" alt="C" height="30" width="30" src="https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png"> <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - [AWS Cloud Practitioner Studies](https://github.com/apfurlan/AWS_Cloud_Practitioner_Studies)
 - 
 ### Machine Learning
