@@ -14,6 +14,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 
 &nbsp;
 
+ <! ---
 <div style="display: inline_block">
 <b>Languages<b> :  &nbsp; &nbsp; <img align="center" alt="Fortran" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,6 +30,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
   <img align="center" alt="C" height="50" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png">
   <img align="center" alt="C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png">
   </div>
+--->
 
 <br>
 <br>
