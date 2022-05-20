@@ -36,7 +36,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 
 ## Projects
 ### Data Engineering
-- [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer)
+- [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer) - <img align="center" alt="C" height="50" width="50" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
 - [Deploing a Kubernetes cluster (EKS) with Terraform and using it for ETL](https://github.com/apfurlan/terraform_AWS_k8s_airflow_supserset)
 - [AWS Cloud Practitioner Studies](https://github.com/apfurlan/AWS_Cloud_Practitioner_Studies)
 - 
@@ -46,6 +46,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 - [Ice percolation model](https://github.com/apfurlan/ice_percolation_model)
 - [Molecular Dynamics Source Code for Continuous Potential](https://github.com/apfurlan/ice_percolation_model)
 - [Implement an average for Canonical Ensemble](https://github.com/apfurlan/canonical_average)
+- [Monte Carlo simulation for the Associating Lattice Gas](https://github.com/apfurlan/MonteCarloCodes)
 ### Others
 
 ### Contacts
