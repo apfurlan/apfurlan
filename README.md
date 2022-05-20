@@ -32,10 +32,6 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
   </div>
 -->
 
-<br>
-<br>
-<br>
-
 ## Projects
 ### Data Engineering
 - [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer) - <img align="center" alt="C" height="30" width="30" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> <img align="center" alt="C" height="30" width="30" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
