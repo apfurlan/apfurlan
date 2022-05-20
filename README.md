@@ -45,7 +45,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 ### Computational Physics
 - [Ice percolation model](https://github.com/apfurlan/ice_percolation_model)
 - [Molecular Dynamics Source Code for Continuous Potential](https://github.com/apfurlan/ice_percolation_model)
-
+- [Implement an average for Canonical Ensemble](https://github.com/apfurlan/canonical_average)
 ### Others
 
 ### Contacts
