@@ -44,7 +44,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 
 ### Computational Physics
 - [Ice percolation model](https://github.com/apfurlan/ice_percolation_model) - <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="C" height="30" width="30" src="https://images.vexels.com/media/users/3/166253/isolated/preview/14bc03b7b1c2c4e2656fd4c0a981cbbc-icone-da-linguagem-de-programacao-cpp.png">
-- [Molecular Dynamics Source Code for Continuous Potential](https://github.com/apfurlan/ice_percolation_model)
+- [Molecular Dynamics Source Code for Continuous Potential](https://github.com/apfurlan/molecular_dynamics_cpot)- <img align="center" alt="Fortran" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">
 - [Implement an average for Canonical Ensemble](https://github.com/apfurlan/canonical_average)
 - [Monte Carlo simulation for the Associating Lattice Gas](https://github.com/apfurlan/MonteCarloCodes)
 ### Others
