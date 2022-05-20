@@ -39,7 +39,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 - [AWS Cloud Practitioner Studies](https://github.com/apfurlan/AWS_Cloud_Practitioner_Studies) - <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/768px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601">
 - 
 ### Machine Learning
--[Discovering Data Science](https://github.com/apfurlan/CursoDDS) -  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+- [Discovering Data Science](https://github.com/apfurlan/CursoDDS) -  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
 ### Computational Physics
 - [Ice percolation model](https://github.com/apfurlan/ice_percolation_model) - <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="C" height="30" width="30" src="https://images.vexels.com/media/users/3/166253/isolated/preview/14bc03b7b1c2c4e2656fd4c0a981cbbc-icone-da-linguagem-de-programacao-cpp.png">
