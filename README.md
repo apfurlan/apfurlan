@@ -36,12 +36,14 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 
 ## Projects
 ### Data Engineering
--  [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer)
+- [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer)
+- [Deploing a Kubernetes cluster (EKS) with Terraform and using it for ETL](https://github.com/apfurlan/terraform_AWS_k8s_airflow_supserset)
 
 ### Machine Learning
 
 ### Computational Physics
 
+### Others
 
 ### Contacts
 
