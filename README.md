@@ -4,8 +4,8 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
   
 - 🧔🏻 PHD Statistical and Computational Physics
 - 🖥 Data Engineer, former Data Analyst 
-- 🏢 Currently working on [A3Data](https://github.com/orgs/A3Data/teams)  
-- 🧑🏽‍🎓 Currently studing Cloud computing (AWS,GCP) 
+- 🏢 Currently working at [A3Data](https://github.com/orgs/A3Data/teams)  
+- 🧑🏽‍🎓 Currently studing Cloud computing (AWS,GCP,Azure) 
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=apfurlan&show_icon=true&theme=prussian&include_all_commits=true&count_private=true"/> 
@@ -33,6 +33,14 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 <br>
 <br>
 <br>
+
+## Projects
+### Data Engineering
+
+### Machine Learning
+
+### Computational Physics
+
 
 ### Contacts
 
