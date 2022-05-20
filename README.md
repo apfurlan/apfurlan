@@ -36,7 +36,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 
 ## Projects
 ### Data Engineering
-- [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer) - <img align="center" alt="C" height="25" width="25" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> <img align="center" alt="C" height="25" width="25" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg">
+- [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer) - <img align="center" alt="C" height="25" width="25" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> <img align="center" alt="C" height="25" width="25" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg"><img align="center" alt="Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - [Deploing a Kubernetes cluster (EKS) with Terraform and using it for ETL](https://github.com/apfurlan/terraform_AWS_k8s_airflow_supserset)
 - [AWS Cloud Practitioner Studies](https://github.com/apfurlan/AWS_Cloud_Practitioner_Studies)
 - 
