@@ -40,7 +40,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 - 
 ### Machine Learning
 - [Discovering Data Science [Course]](https://github.com/apfurlan/CursoDDS) -  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-- [Data Science Machine Learning [Course]](https://github.com/apfurlan/DataScienceMachineLearning) - -  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"> <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png">
+- [Data Science Machine Learning [Course]](https://github.com/apfurlan/DataScienceMachineLearning) - -  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="C" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"> <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png">
 
 
 ### Computational Physics
