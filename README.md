@@ -9,7 +9,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=apfurlan&show_icon=true&theme=prussian&include_all_commits=true&count_private=true"/> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfurlan&layout=compact&langs_count=16&theme=prussian"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfurlan&layout=compact&langs_count=16&theme=prussian"/> 
 </div>
 
 &nbsp;
