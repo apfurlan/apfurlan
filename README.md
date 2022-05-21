@@ -1,4 +1,4 @@
-## Hi there !!! 👋
+# Hi there !!! 👋
 
 I'm Alexandre Furlan and this is my Github page. Here you will find some projects developed to learn/study data science and some computational physics projects (Monte Carlo and Molecular Dynamics codes).
   
@@ -32,18 +32,18 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
   </div>
 -->
 
-## Projects
-### Data Engineering
+# Projects
+## Data Engineering
 - [Cloud_Data_Engineer](https://github.com/apfurlan/Cloud_Data_Engineer) - <img align="center" alt="C" height="30" width="30" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> <img align="center" alt="C" height="30" width="30" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - [Deploing a Kubernetes cluster (EKS) with Terraform and using it for ETL](https://github.com/apfurlan/terraform_AWS_k8s_airflow_supserset) - <img align="center" alt="C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> <img align="center" alt="C" height="30" width="30" src="https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png"> <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - [AWS Cloud Practitioner Studies](https://github.com/apfurlan/AWS_Cloud_Practitioner_Studies) - <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/768px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601">
 - 
-### Machine Learning
+## Machine Learning
 - [Discovering Data Science [Course]](https://github.com/apfurlan/CursoDDS) -  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 - [Data Science Machine Learning [Course]](https://github.com/apfurlan/DataScienceMachineLearning) - -  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="C" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"> <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png">
 
 
-### Computational Physics
+## Computational Physics
 - [Ice percolation model](https://github.com/apfurlan/ice_percolation_model) - <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="C" height="30" width="30" src="https://images.vexels.com/media/users/3/166253/isolated/preview/14bc03b7b1c2c4e2656fd4c0a981cbbc-icone-da-linguagem-de-programacao-cpp.png">
 - [Molecular Dynamics Source Code for Continuous Potential](https://github.com/apfurlan/molecular_dynamics_cpot) - <img align="center" alt="Fortran" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">
 - [Implement an average for Canonical Ensemble](https://github.com/apfurlan/canonical_average) - <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
