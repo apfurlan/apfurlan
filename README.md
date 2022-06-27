@@ -4,8 +4,7 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
   
 - 🧔🏻 PHD Statistical and Computational Physics
 - 🖥 Data Engineer, former Data Analyst 
-- 🏢 Currently working at [A3Data](https://github.com/orgs/A3Data/teams)  
-- 🧑🏽‍🎓 Currently studing Cloud computing (AWS,GCP,Azure) 
+- 🏢 Currently working at [Z-Tech](https://github.com/ztech-company)  
 
 <br>
 
@@ -45,6 +44,8 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
 ### Contacts
 
 <div>
-<a href = "mailto:alexandrepfurlan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href = "mailto:alexandrepfurlan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <a href="linkedin.com/in/alexandre-furlan-b69251120" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://apfurlan.github.io/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![https://medium.com/@apfurlan](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </div>
