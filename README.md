@@ -1,6 +1,6 @@
 # Hi there !!! 👋
 
-I'm Alexandre Furlan and this is my Github page. Here you will find some projects developed to learn/study data science and some computational physics projects (Monte Carlo and Molecular Dynamics codes).
+I'm Alexandre Furlan and this is my Github page. Here you will find some data science and computational physics projects (Monte Carlo and Molecular Dynamics codes).
   
 - 🧔🏻 PHD Statistical and Computational Physics
 - 🖥 Data Engineer, former Data Analyst 
@@ -18,6 +18,13 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some project
  
 
 # Projects 
+
+The subject of each repository is identified by its prefix as follows : 
+
+BTC - Bootcamps
+PPJ - Personal Projects
+CPH - Computational physics
+
 
 ### Data Engineering
 - [Massive Data Processing with Spark](https://github.com/apfurlan/Cloud_Data_Engineer) -  <img align="center" alt="GCP" height="30" width="30" src="https://static.cdnlogo.com/logos/g/74/google-cloud.svg"> <img align="center" alt="C" height="30" width="30" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> <img align="center" alt="C" height="30" width="30" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
