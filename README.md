@@ -21,8 +21,8 @@ I'm Alexandre Furlan and this is my Github page. Here you will find some data sc
 
 The subject of each repository is identified by its prefix as follows : 
 
-BTC - Bootcamps
-PPJ - Personal Projects
+BTC - Bootcamps \
+PPJ - Personal Projects \
 CPH - Computational physics
 
 
